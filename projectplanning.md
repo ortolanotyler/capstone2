@@ -63,3 +63,14 @@ stock-market-app/
 ├── .gitignore               # Specifies intentionally untracked files to ignore
 ├── README.md                # Project overview and documentation
 └── package.json             # Root-level package.json for scripts
+
+
++ authentication
++ data vizualization
++ state management
++ api's for stock data
++ testing
++ deployment
+
+
+
