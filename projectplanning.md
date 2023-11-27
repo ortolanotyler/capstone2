@@ -52,7 +52,7 @@ stock-market-app/
 │   │   └── index.js         # PostgreSQL connection and queries
 │   │
 │   ├── routes/              # Express routes
-│   │   ├── stocks.js        # Routes for stock-related requests
+│   │   ├── stocks.js        # Routes for stock-related requestssports
 │   │   └── users.js         # Routes for user/portfolio management
 │   │
 │   ├── app.js               # Express application setup
